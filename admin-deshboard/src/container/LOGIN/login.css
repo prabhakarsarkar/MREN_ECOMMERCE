@@ -1,0 +1,21 @@
+.btns{
+     margin-top: 30px;
+     width: 50%;
+    
+}
+
+
+.card{
+    margin-top: 30%;
+    border: 2px solid rgba(2, 2, 2, 0.219);
+    background-color: white ;
+    border-radius: 20px;
+}
+
+.form-control{
+    height: 50px;
+    border: 1px solid black;
+    border-radius: 10px;
+
+    
+}

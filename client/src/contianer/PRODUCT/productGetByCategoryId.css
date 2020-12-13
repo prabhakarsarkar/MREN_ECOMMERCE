@@ -1,0 +1,29 @@
+.productCategoryCard{
+    height:90%;
+}
+
+
+.categoryProductImage{
+    width: 70%;
+    height: 100%;
+    
+}
+
+.categoryProductDetailes{
+    
+    margin-top: 5px;
+    font-size: 20px;
+}
+
+.Image{
+    text-align: center;
+}
+
+.categoryProductPrice{
+    padding-top: 20px;
+    text-align: center;
+}
+
+.footer{
+    background: #FF8C00;
+}

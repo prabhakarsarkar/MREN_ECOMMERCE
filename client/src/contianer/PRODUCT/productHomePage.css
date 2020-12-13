@@ -1,0 +1,34 @@
+.container{
+     background: white;
+     padding-top: 1px;
+     
+}
+
+.marquee{
+    width: 80%;
+    direction: left;
+    height: 90px;
+
+}
+
+.productImage{
+    width: 70%;
+     height: 100%; 
+     padding-top: 25px;
+}
+
+.card{
+    height:90%;
+     background:white;
+      border-style: none;
+}
+
+.productPrice{
+    font-size: 13px;
+    color: crimson;
+}
+
+.productName{
+    font-size: 10px;
+    color: blue;
+}
